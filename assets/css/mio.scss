@@ -1,0 +1,70 @@
+---
+---
+@import "{{ site.theme }}";
+header {
+  img {
+    max-width: 65%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h1 {
+    text-align: center;
+    font-size: 16;
+    color: #B03A2E;
+  }
+  p {
+    text-align: left;
+    font-size: 14;
+  }
+  p.view {
+    text-align: left;
+    font-size: 12;
+  }
+  a {
+    font-size: 12;
+    color: #B03A2E;
+  }
+  a:hover, a:focus {
+    color: #B03A2E;
+    font-weight: bold;
+    }
+}
+
+
+footer {
+  p {
+    text-align: left;
+    font-size: 12;
+    margin: 0 0 0px;
+  }
+  p.view {
+    text-align: left;
+    font-size: 12;
+  }
+  a {
+    font-size: 12;
+    color: #B03A2E;
+  }
+  a:hover, a:focus {
+  color: #B03A2E;
+  font-weight: bold;
+  }
+}
+
+section {
+  p {
+    color: #212F3C;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #5D6D7E;
+  }
+  a {
+    color: #B03A2E;
+  }
+  a:hover, a:focus {
+  color: #B03A2E;
+  font-weight: bold;
+  }
+}
+

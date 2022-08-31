@@ -1,0 +1,25 @@
+# Código
+
+-   Para crear un marco datos en R
+    ([código](https://agusnieto77.github.io/Sem-HCACSo/codigo/df "data frame"))
+
+-   Para importar y exportar marcos de datos en R
+    ([código](https://agusnieto77.github.io/Sem-HCACSo/codigo/read_save "import export"))
+
+-   Para manipular marcos de datos como objetos en R
+    ([código](https://agusnieto77.github.io/Sem-HCACSo/codigo/manipular "manipular"))
+
+-   Para ordenar y reordenar marcos de datos en R
+    ([código](https://agusnieto77.github.io/Sem-HCACSo/codigo/ordenar "ordenar"))
+
+-   Para manipular cadenas de caracteres en R
+    ([código](https://agusnieto77.github.io/Sem-HCACSo/codigo/strings "strings"))
+
+-   Para manipular fechas en R
+    ([código](https://agusnieto77.github.io/Sem-HCACSo/codigo/fechas "fechas"))
+
+-   Para visualizar en R
+    ([código](https://agusnieto77.github.io/Sem-HCACSo/codigo/vis "visualización"))
+
+-   Para iterar en R
+    ([código](https://agusnieto77.github.io/Sem-HCACSo/codigo/iterar "iterar"))
