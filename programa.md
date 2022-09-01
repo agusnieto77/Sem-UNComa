@@ -5,9 +5,10 @@ editor_options:
     wrap: sentence
 ---
 
-# Programa del Seminario
+# Programa del Seminario Opcional
 
-#### HERRAMIENTAS COMPUTACIONALES PARA EL ANÁLISIS DE LA CONFLICTIVIDAD SOCIAL
+**LA SOCIOLOGÍA Y EL GIRO DIGITAL: HERRAMIENTAS
+COMPUTACIONALES PARA EL ANÁLISIS DE LA CONFLICTIVIDAD EN LA ERA DEL BIG DATA**
 
 Año lectivo: 2022
 
@@ -15,13 +16,13 @@ Régimen de cursada: Cuatrimestral (segundo cuatrimestre)
 
 Profesor a cargo: Agustín Nieto
 
-Carga horaria: 36
+Carga horaria: 64
 
-Período: 5 de agosto -- 30 de septiembre
+Período: agosto -- diciembre
 
-Número de encuentros: 9
+Número de encuentros: 16
 
-Horario: viernes 14-18 hs.
+Horario: jueves 17-21 hs.
 [modalidad: virtual]
 
 ##### FUNDAMENTACIÓN Y OBJETIVOS
