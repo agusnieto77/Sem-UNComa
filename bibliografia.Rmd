@@ -8,19 +8,14 @@ output: md_document
 
 ### Obligatoria
 
--   Gualda, Estrella (2022) Social big data, sociología y ciencias sociales computacionales. *Empiria: Revista de metodología de ciencias sociales*, 53, 147-177 ([link](https://revistas.uned.es/index.php/empiria/article/view/32631/24825 "Social big data, sociología y ciencias sociales computacionales")).
+-   Aragona, B. (2022). Tipos de big data y análisis sociológico: usos, críticas y problemas éticos. Empiria. Revista De metodología De Ciencias Sociales, (53), 15–30  ([link](https://revistas.uned.es/index.php/empiria/article/view/32610/24783 "Tipos de big data y análisis sociológico")).
 
--   Milligan, Ian (2020) La historia en la era de la abundancia: archivos web e investigación histórica. *Historia y Memoria*, número especial, 235-269 ([link](https://revistas.uptc.edu.co/index.php/historia_memoria/article/view/11587/9649 "La historia en la era de la abundancia")).
+-   Cabrera-Álvarez, P. (2022). Survey Research in Times of Big Data. Empiria. Revista De metodología De Ciencias Sociales, (53), 31–51 ([link](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/biblio/Pons%20-%20D%C3%B3nde%20est%C3%A1%20el%20archivo%20V.pdf "Survey Research in Times of Big Data")).
 
--   Pons, Anaclet (2013) ¿Dónde está el archivo? Documentos que no se ven ni se tocan. *El desorden digital*, Madrid ([link](https://github.com/agusnieto77/Sem-HCACSo/raw/main/docs/biblio/Pons%20-%20D%C3%B3nde%20est%C3%A1%20el%20archivo%20V.pdf "¿Dónde está el archivo?")).
+-   Gualda, Estrella (2022) Social big data, sociología y ciencias sociales computacionales. *Empiria: Revista de metodología de ciencias sociales*, 53, 147-177  ([link](https://revistas.uned.es/index.php/empiria/article/view/32631/24825 "Social big data, sociología y ciencias sociales computacionales")).
 
-### Complementaria
+-   Piovani, Juan Ignacio, y Paolo Parra Saiani. «Triangulación metodológica y big data». PRACS: Revista Eletrônica de Humanidades do Curso de Ciências Sociais da UNIFAP 14, nº 2 (26 de febrero de 2022): 157-67  ([link](https://sci-hub.se/https://doi.org/10.1080/01576895.2019.1640753 "Triangulación metodológica y big data")).
 
--   Putnam, Lara (2016) The Transnational and the Text-searchable: Digitized Sources and the Shadows they Cast. *American Historical Review*, 121, 2 ([link](https://academic.oup.com/ahr/article/121/2/377/2581842 "The Transnational and the Text-searchable")).
-
--   Winters, Jane y Prescott, Andrew (2019) Negotiating the born-digital: a problem of search. *Archives and Manuscripts*, 47, 3 ([link](https://sci-hub.se/https://doi.org/10.1080/01576895.2019.1640753 "Negotiating the born-digital: a problem of search")).
-
--   Winters, Jane (2018) *Web archives and (digital) history: a troubled past and a promising future?* Brügger, Niels (eds), *Sage Handbook of Web History*, Londres ([link](https://sas-space.sas.ac.uk/9202/1/Web%20archives%20and%20digital%20history.pdf "Web archives and (digital) history")).
 
 ## Unidad II
 
