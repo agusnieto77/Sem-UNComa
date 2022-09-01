@@ -18,6 +18,11 @@
     ciencias sociales*, 53, 147-177
     ([link](https://revistas.uned.es/index.php/empiria/article/view/32631/24825 "Social big data, sociología y ciencias sociales computacionales")).
 
+-   Pereira, Isabel Quintas. «La estadística computacional: una
+    propuesta didáctica». Política y Cultura, nº 53 (29 de junio de
+    2020): 183-204
+    ([link](https://www.redalyc.org/journal/267/26763954009/html/ "La estadística computacional")).
+
 -   Piovani, Juan Ignacio, y Paolo Parra Saiani. «Triangulación
     metodológica y big data». PRACS: Revista Eletrônica de Humanidades
     do Curso de Ciências Sociais da UNIFAP 14, nº 2 (26 de febrero de
