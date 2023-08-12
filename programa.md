@@ -10,7 +10,7 @@ editor_options:
 **LA SOCIOLOGÍA Y EL GIRO DIGITAL: HERRAMIENTAS
 COMPUTACIONALES PARA EL ANÁLISIS DE LA CONFLICTIVIDAD EN LA ERA DEL BIG DATA**
 
-Año lectivo: 2022
+Año lectivo: 2023
 
 Régimen de cursada: Cuatrimestral (segundo cuatrimestre)
 
