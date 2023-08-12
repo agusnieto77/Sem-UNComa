@@ -91,17 +91,26 @@ Vinculación con github.
     (2022).
     Tipos de big data y análisis sociológico: usos, críticas y problemas éticos.
     Empiria.
-    Revista De metodología De Ciencias Sociales, (53), 15--30.
+    Revista De metodología De Ciencias Sociales, (53), 15-30.
 
 -   Cabrera-Álvarez, P. (2022).
     Survey Research in Times of Big Data.
     Empiria.
     Revista De metodología De Ciencias Sociales, (53), 31--51.
+    
+-   García Mingo E. y Sádaba Rodríguez I. (2023). Análisis de la
+    realidad social digital: Hacia una metodología de la investigación
+    social digital. *Teknokultura. Revista de Cultura Digital y
+    Movimientos Sociales*, 20(2), 239-242.
 
 -   Gualda, E.
     (2022).
     Social big data, sociología y ciencias sociales computacionales.
     Empiria: Revista de metodología de ciencias sociales, (53), 147-177.
+  
+-   Lupton D., Fuentes A. y García Mingo E. (2023). Presente y futuro de
+    la sociología digital: Entrevista a Deborah Lupton. *Teknokultura.
+    Revista de Cultura Digital y Movimientos Sociales*, 20(2), 239-242.
 
 -   Pereira, Isabel Quintas.
     «La estadística computacional: una propuesta didáctica».

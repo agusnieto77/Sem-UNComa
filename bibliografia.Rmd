@@ -12,7 +12,11 @@ output: md_document
 
 -   Cabrera-Álvarez, P. (2022). Survey Research in Times of Big Data. Empiria. Revista De metodología De Ciencias Sociales, (53), 31–51 ([link](https://revistas.uned.es/index.php/empiria/article/view/32611/24822 "Survey Research in Times of Big Data")).
 
+-   García Mingo E. y Sádaba Rodríguez I. (2023). Análisis de la realidad social digital: Hacia una metodología de la investigación social digital. *Teknokultura. Revista de Cultura Digital y Movimientos Sociales*, 20(2), 239-242 ([link](https://revistas.ucm.es/index.php/TEKN/article/view/88460/4564456566089 "Análisis de la realidad social digital: Hacia una metodología de la investigación social digital")).
+
 -   Gualda, Estrella (2022) Social big data, sociología y ciencias sociales computacionales. *Empiria: Revista de metodología de ciencias sociales*, 53, 147-177  ([link](https://revistas.uned.es/index.php/empiria/article/view/32631/24825 "Social big data, sociología y ciencias sociales computacionales")).
+
+-   Lupton D., Fuentes A. y García Mingo E. (2023). Presente y futuro de la sociología digital: Entrevista a Deborah Lupton. *Teknokultura. Revista de Cultura Digital y Movimientos Sociales*, 20(2), 239-242 ([link](https://revistas.ucm.es/index.php/TEKN/article/view/87181/4564456566105 "Presente y futuro de la sociología digital: Entrevista a Deborah Lupton")).
 
 - Pereira, Isabel Quintas. «La estadística computacional: una propuesta didáctica». Política y Cultura, nº 53 (29 de junio de 2020): 183-204 ([link](https://www.redalyc.org/journal/267/26763954009/html/ "La estadística computacional")).
 
