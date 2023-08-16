@@ -2,5 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
-*.RProj
 .gitignore
+*.RProj
+*.Rmd
+*.jpg
+*.png
+*.gif
+*.jpeg
