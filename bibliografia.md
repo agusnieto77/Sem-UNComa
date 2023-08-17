@@ -1,5 +1,8 @@
 # Bibliografía
 
+[Responsables de
+lecturas](https://docs.google.com/spreadsheets/d/1daRYQMJXmObIAJEE3GKJkB89YuvCS28P4jiMcUdkSIU/edit?usp=sharing "Formulario")
+
 ## Unidad I
 
 ### Obligatoria
@@ -79,6 +82,11 @@
 -   Müller, Kirill & Wickham, Hadley (2022) Tibble: Simple data frames
     ([link](https://cran.r-project.org/web/packages/tibble/tibble.pdf "Tibble")).
 
+-   Trezza D (2023) To scrape or not to scrape, this is dilemma. The
+    post-API scenario and implications on digital research. Front.
+    Sociol. 8:1145038
+    ([link](https://www.frontiersin.org/articles/10.3389/fsoc.2023.1145038/full "To scrape or not to scrape")).
+
 -   Wickham, Hadley (2021) *Rvest: easily harvest (scrape) web pages*
     ([link](https://cran.r-project.org/web/packages/rvest/rvest.pdf "easily harvest (scrape) web pages")).
 
@@ -89,6 +97,11 @@
 ## Unidad IV
 
 ### Obligatoria
+
+-   Donig, S., Eckl, M., Gassner, S., & Rehbein, M. (2023). Web archive
+    analytics: Blind spots and silences in distant readings of the
+    archived web. Digital Scholarship in the Humanities, fqad014
+    ([link](https://doi.org/10.1093/llc/fqad014 "Web archive analytics")).
 
 -   Melo, Jairo (2017) Lectura distante, fragmentada y colaborativa en
     el archivo infinito. *Relaciones: Estudios de historia y sociedad*,

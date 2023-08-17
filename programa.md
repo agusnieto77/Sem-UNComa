@@ -159,6 +159,9 @@ Transformación de la información semi-estructurada en datos estructurados.
 -   Müller, K., & Wickham, H.
     (2021).
     Tibble: Simple data frames.
+    
+-   Trezza D (2023) To scrape or not to scrape, this is dilemma. The post-API scenario and implications on digital research. Front. Sociol. 8:114503.
+
 
 -   Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L. D., François, R., Grolemund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Pedersen, T. L., Miller, E., Bache, S. M., Müller, K., Ooms, J., Robinson, D., Seidel, D. P., Spinu, V., Yutani, H.
     (2019).
@@ -176,6 +179,10 @@ Palabras vacías (stopwords), lemas, raíces, entidades, etiquetas POS (Parts Of
 Tokenizado de textos.
 Primeras mediciones: palabras más frecuentes y relaciones más fuertes.
 Uso de diccionarios para la detección de eventos (de protesta) y otras entidades (provincias, barrios, organizaciones, etc.).
+
+-   Donig, S., Eckl, M., Gassner, S., & Rehbein, M. (2023). 
+    Web archive analytics: Blind spots and silences in distant readings of the archived web. Digital Scholarship in the Humanities, fqad014.
+
 
 -   Melo, Jairo (2017).
     "Lectura distante, fragmentada y colaborativa en el archivo infinito", en Relaciones: Estudios de historia y sociedad, 38.149: 169-89.
@@ -229,4 +236,4 @@ Los textos de corte más teórico permitirán reflexionar sobre los alcances de 
 
 Quienes realicen el seminario deberán cumplir con un 75% de asistencia y luego entregar un condigo (en desarrollo) que permita ejecutar alguna acción de procesamiento de corpus de texto, necesario para su investigación de tesis, y un ensayo breve de tipo expositivo en el cual se reflexiones sobre la experiencia de trabajo con R y se refiera a la utilidad de las técnicas de las ciencias sociales computacionales y humanidades digitales.
 El ensayo no puede superar las 10 páginas.
-Se establecerá un plazo de tres meses para la entrega del trabajo final.
+Se establecerá un plazo de dos semanas para la entrega del trabajo final (fecha límite: 17-11-2023).
