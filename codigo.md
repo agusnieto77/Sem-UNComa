@@ -23,3 +23,5 @@
 
 -   Para iterar en R
     ([código](https://agusnieto77.github.io/Sem-UNComa/codigo/iterar "iterar"))
+
+## [Acceso al repositorio de script unidad por unidad](https://github.com/agusnieto77/Material-Sem-UNComa/tree/master/scripts)
